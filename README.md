@@ -21,8 +21,8 @@ Search Students, and Exit the Program
 
 ## References
 
-* Creating a search engine https://acho.io/blogs/how-to-build-a-full-text-search-engine-with-sql
-* Dictionary of States and Two-Letter Code https://gist.github.com/rogerallen/1583593
+* Creating a search engine: https://acho.io/blogs/how-to-build-a-full-text-search-engine-with-sql
+* Dictionary of States and Two-Letter Code: https://gist.github.com/rogerallen/1583593
 
 ## Known Errors
 
